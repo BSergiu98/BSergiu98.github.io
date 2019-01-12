@@ -4398,7 +4398,10 @@ body {
   color: #232323;
 }
 .cid-reXVAxu9rB H4 {
-  text-align: right;
+  text-align: left;
+}
+.cid-reXVAxu9rB .count {
+  color: #ffffff;
 }
 .cid-reXTOGxXAl .navbar {
   padding: .5rem 0;
