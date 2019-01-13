@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sportolda lanyokok",
-    "currentPage": "index.html",
+    "currentPage": "sportoldalanyok.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
     "sitemapSwitcher": "on"
   },
   "pages": {
-    "index.html": {
+    "sportoldalanyok.html": {
       "settings": {
         "main": true,
         "title": "Kezdőlap",
@@ -791,7 +791,7 @@
         }
       ]
     },
-    "page1.html": {
+    "stab.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Stábtagok",
@@ -1327,7 +1327,7 @@
         }
       ]
     },
-    "page2.html": {
+    "csapat.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Csapattagok",
@@ -2107,7 +2107,7 @@
         }
       ]
     },
-    "page3.html": {
+    "eredmenyek.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Mérkőzések,eredmények",
@@ -2586,7 +2586,7 @@
         }
       ]
     },
-    "page4.html": {
+    "kepek.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Képek",
@@ -2990,7 +2990,7 @@
         }
       ]
     },
-    "page5.html": {
+    "elerhetoseg.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Elérhetőségek",
@@ -3445,7 +3445,7 @@
         }
       ]
     },
-    "page6.html": {
+    "nbi.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "NB1",
@@ -3989,7 +3989,7 @@
         }
       ]
     },
-    "page7.html": {
+    "teremtornak.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Teremtornak",
@@ -4479,7 +4479,7 @@
         }
       ]
     },
-    "page8.html": {
+    "edzomeccsek.html": {
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Edzőmeccsek",
